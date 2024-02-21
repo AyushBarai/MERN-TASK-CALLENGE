@@ -64,6 +64,7 @@ const TransactionsTable = () => {
   const handleSearch = () => {
     setCurrentPage(1); // Reset to first page when performing a new search
     fetchTransactions(selectedMonth, 1);
+    setSearchText('');
   };
 
   return (
