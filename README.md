@@ -20,28 +20,28 @@ cd backend
 npm install
 ```
 
+This command will install all the dependencies listed in the dependencies section of your Backend package.json file.
+
 - Start the backend server:
 
 ```bash
 node server.js
 ```
 
-This command will install all the dependencies listed in the dependencies section of your Backend package.json file.
-
 ## 4. FRONTEND FILE ##
 
-To install the dependencies listed in your Backend/package.json file, you can use the following command:
+To install the dependencies listed in your Frontend/package.json file, you can use the following command:
 
 ```bash
 cd frontend
 npm install
 ```
 
+This command will install all the dependencies listed in the dependencies section of your Frontend package.json file.
+
 - Start the frontend server:
 
 ```bash
 npm start
 ```
-
-This command will install all the dependencies listed in the dependencies section of your Frontend package.json file.
 
