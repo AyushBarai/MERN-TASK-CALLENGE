@@ -91,7 +91,6 @@ const TransactionsTable = () => {
         placeholder="Search..."
         value={searchText}
         onChange={handleSearchTextChange}
-        onKeyDown={handleKeyDown}
       />
       <button onClick={handleSearch}>Search</button>
 
