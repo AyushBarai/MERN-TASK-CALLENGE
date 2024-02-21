@@ -1,0 +1,71 @@
+.container {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.container label {
+  margin-bottom: 5px; /* Reduce margin */
+  font-size: 1.2rem; /* Reduce font size */
+  font-weight: bold; /* Make label bold */
+}
+
+.container select {
+  margin-bottom: 5px; /* Reduce margin */
+    font-size: 1.2rem; /* Reduce font size */
+    padding: auto; /* Add padding */
+    background-color: #a4f1ea8a; /* Change background color */
+    border: 1px solid #a4f1ea8a; /* Change border */
+}
+
+.container input{
+  background-color: #83f5e98a; /* Change background color */
+    border: 1px solid #83f5e98a; /* Change border */
+}
+
+.container button{
+  background-color: aquamarine;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 80%;
+  font-size: 0.8rem;
+  border: 2px solid #000; /* Set border to 2px solid black */
+  border-radius: 10px;
+  overflow: hidden;
+  margin-top: 20px;
+  margin: 0 auto; /* Align the table to the center */
+  background-color: rgb(250, 233, 138); /* Add your desired background color */
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+  border: 2px solid #000; /* Set border to 2px solid black */
+}
+
+thead {
+  background-color: rgb(245, 221, 89);
+}
+
+.pagination {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pagination button {
+  margin: 0 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.pagination button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}

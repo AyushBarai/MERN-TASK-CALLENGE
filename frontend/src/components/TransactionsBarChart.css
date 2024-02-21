@@ -1,0 +1,25 @@
+.transactions-bar-chart-container {
+  width: 80%;
+  margin: 0 auto; /* Align to center */
+  text-align: center;
+  padding-top: 100px; /* Add top padding */
+}
+
+.transactions-bar-chart-container h2 {
+  margin-bottom: 10px; /* Reduce margin */
+  font-size: 1.2rem; /* Reduce font size */
+}
+
+.transactions-bar-chart-container label {
+  margin-bottom: 5px; /* Reduce margin */
+  font-size: 1.2rem; /* Reduce font size */
+  font-weight: bold; /* Make label bold */
+}
+
+.transactions-bar-chart-container select {
+  margin-bottom: 5px; /* Reduce margin */
+    font-size: 1.2rem; /* Reduce font size */
+    padding: auto; /* Add padding */
+    background-color: #83f5e98a; /* Change background color */
+    border: 1px solid #83f5e98a; /* Change border */
+}
