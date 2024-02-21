@@ -4,22 +4,22 @@
 }
 
 .container label {
-  margin-bottom: 5px; /* Reduce margin */
-  font-size: 1.2rem; /* Reduce font size */
-  font-weight: bold; /* Make label bold */
+  margin-bottom: 5px; 
+  font-size: 1.2rem; 
+  font-weight: bold; 
 }
 
 .container select {
-  margin-bottom: 5px; /* Reduce margin */
-    font-size: 1.2rem; /* Reduce font size */
-    padding: auto; /* Add padding */
-    background-color: #a4f1ea8a; /* Change background color */
-    border: 1px solid #a4f1ea8a; /* Change border */
+  margin-bottom: 5px; 
+    font-size: 1.2rem; 
+    padding: auto; 
+    background-color: #a4f1ea8a; 
+    border: 1px solid #a4f1ea8a; 
 }
 
 .container input{
-  background-color: #83f5e98a; /* Change background color */
-    border: 1px solid #83f5e98a; /* Change border */
+  background-color: #83f5e98a; 
+    border: 1px solid #83f5e98a;
 }
 
 .container button{
@@ -34,18 +34,18 @@ table {
   border-collapse: collapse;
   width: 80%;
   font-size: 0.8rem;
-  border: 2px solid #000; /* Set border to 2px solid black */
+  border: 2px solid #000; 
   border-radius: 10px;
   overflow: hidden;
   margin-top: 20px;
-  margin: 0 auto; /* Align the table to the center */
-  background-color: rgb(250, 233, 138); /* Add your desired background color */
+  margin: 0 auto; 
+  background-color: rgb(250, 233, 138); 
 }
 
 th, td {
   padding: 10px;
   text-align: center;
-  border: 2px solid #000; /* Set border to 2px solid black */
+  border: 2px solid #000; 
 }
 
 thead {
